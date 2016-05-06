@@ -1,0 +1,186 @@
+/*GLOBAL STYLES*/
+@import url(https://fonts.googleapis.com/css?family=Roboto|Slabo+27px|Oswald|Montserrat|Fjalla+One);
+
+
+
+body {
+  margin:0px;  
+  padding:0px;
+  background-color: #f3ecdc;
+}
+
+h6 {
+   font-family: 'Montserrat', sans-serif;
+   font-size:1.5em;
+   text-shadow:10px;
+   display: inline-block;
+}
+
+header {
+    background-color:#062947;
+    color:#ffffff;   
+    height:557px;
+    /*width:1300px;*/
+    /*margin-left:auto;*/
+    /*margin-right:auto;*/
+    /*width:3em;*/
+    background-image:url("../images/blueheadercropped.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;    
+    padding:0px 40px 0px 40px;
+}
+.blue{
+  background-color:#f6911f;
+}
+header h1 {
+  font-size:4em;
+  text-align:center;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+main {
+  width:90%;
+  margin:40px auto;
+}
+
+
+.image-typing {
+    /*background-size:cover;*/
+    /*width:1450px;*/
+    /*height:400px;*/
+    margin-top:20px;
+}
+
+h2 {
+    font-family:'Fjalla One', sans-serif;
+    font-size:2em;
+    text-align:center;
+    color:#062947;
+}
+section p {
+    font-size:1.45em;
+}
+.image-cameraman {
+    /*width:1450px;*/
+    /*height:400px;*/
+}
+h3 {
+    font-family:'Fjalla One', sans-serif;
+    font-size:2em;
+    text-align:center;
+    color:#062947;
+}
+
+div.row {
+    
+}
+footer {
+    background-color:#062947;
+    color:#ffffff;
+    font-size:18px;
+    height:125px;
+    text-align:center;
+    padding:40px 0px;
+    background: url("../images/blueheadercropped.jpg") no-repeat bottom center fixed;
+}
+
+#orange-red{
+    background-color:#d64c27;
+    height:20px;
+    width:20%;
+    float:left;
+}
+#simple-orange{
+    background-color:#f6911f;
+    height:20px;
+    width:20%;
+    float:left;
+}
+#teal-blue{
+    background-color:#1d607d;
+    height:20px;
+    width:20%;
+    float:left;
+}
+#navy-blue{
+    background-color:#062947;
+    height:20px;
+    width:20%;
+    float:left;
+}
+
+a, .fa-facebook-official{
+    font-size:48px;
+    text-decoration:none;
+    color:#fff;
+}
+
+.fa {
+    margin:0px 20px;
+}
+
+section p {
+    text-align:center;
+}
+/**************BUTTONS ************/
+
+.button {
+	background-color:#f6911f;
+	padding:15px 25px;  
+	/*border-radius:500px;*/
+	border-radius:6px;
+	text-decoration:none;
+	font-family: 'Fjalla One', sans-serif;
+	font-size:2em;
+	color:#ffffff;
+	margin:25px 0px;
+	display: inline-block;
+	
+	/*text-shadow:2px 2px 3px #000000;*/
+	
+}
+
+div.buttoncont {
+	text-align: center;
+	text-transform:uppercase;
+	/*text-decoration:none;*/
+	border-radius:50px;
+	
+}
+
+.button2 {
+	background-color:#f6911f;
+	padding:15px 25px;  
+	/*border-radius:60px;*/
+	border-style:none;
+	text-decoration:none;
+	font-family: 'Fjalla One', sans-serif;
+	font-size:2em;
+	color:#ffffff;
+	margin-right:10px;
+	/*text-shadow:2px 2px 3px #000000;*/
+}
+div.screenwriter {
+    text-align:center;
+    text-transform:uppercase;
+}
+.button3 {
+    background-color:#f6911f;
+	padding:15px 25px;  
+	/*border-radius:60px;*/
+	border-style:none;
+	text-decoration:none;
+	font-family: 'Fjalla One', sans-serif;
+	font-size:2em;
+	color:#ffffff;
+	margin-right:10px;
+}
+div.filmmaker {
+    text-align:center;
+    text-transform:uppercase;
+}
+
+.image {
+    margin: 20px auto;
+    display:block;
+}
